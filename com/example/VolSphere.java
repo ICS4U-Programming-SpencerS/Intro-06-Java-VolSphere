@@ -20,7 +20,7 @@ public final class VolSphere {
    *
    * @param args Command line arguments (not used).
    */
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     // For user input.
     final Scanner in = new Scanner(System.in);
 
